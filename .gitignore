@@ -1,0 +1,4 @@
+*.log
+!added-songs.log
+temp/
+personal-metadata.txt
